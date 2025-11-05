@@ -1,0 +1,22 @@
+body {
+  max-width: 36em;
+  margin: auto;
+  font-family: 'Verdana', 'Tahoma', sans-serif;
+}
+
+#head {
+  text-align: center;
+  display: block;
+  h1 {
+    display: inline;
+  }
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+
+footer {
+  text-align: center;
+}
